@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Projects\Pixelab\Floristeria\src\FlowerShop\FlowerShop.Models\obj\Debug\FlowerShop.Models.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Projects\Pixelab\Floristeria\src\FlowerShop\FlowerShop.Models\bin\Debug\FlowerShop.Models.dll
+C:\Users\David\Documents\Projects\Pixelab\Floristeria\src\FlowerShop\FlowerShop.Models\bin\Debug\FlowerShop.Models.pdb
+C:\Users\David\Documents\Projects\Pixelab\Floristeria\src\FlowerShop\FlowerShop.Models\bin\Debug\EntityFramework.dll
+C:\Users\David\Documents\Projects\Pixelab\Floristeria\src\FlowerShop\FlowerShop.Models\bin\Debug\EntityFramework.xml
+C:\Users\David\Documents\Projects\Pixelab\Floristeria\src\FlowerShop\FlowerShop.Models\obj\Debug\FlowerShop.Models.dll
+C:\Users\David\Documents\Projects\Pixelab\Floristeria\src\FlowerShop\FlowerShop.Models\obj\Debug\FlowerShop.Models.pdb

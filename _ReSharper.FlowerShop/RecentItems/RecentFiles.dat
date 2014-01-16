@@ -1,0 +1,50 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/f:Global.asax.cs" caret="0" fromTop="0" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:OrderStatusChange.cs" caret="428" fromTop="20" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/f:Web.config" caret="639" fromTop="11" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:Order.cs" caret="1013" fromTop="40" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Filters/f:InitializeSimpleMembershipAttribute.cs" caret="391" fromTop="2" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Controllers/f:AccountController.cs" caret="4776" fromTop="22" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:App_Start/f:AuthConfig.cs" caret="0" fromTop="0" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:Driver.cs" caret="790" fromTop="33" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Index.cshtml" caret="778" fromTop="35" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Create.cshtml" caret="1041" fromTop="25" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Details.cshtml" caret="734" fromTop="11" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Delete.cshtml" caret="778" fromTop="31" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Controllers/f:DriversController.cs" caret="2100" fromTop="21" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Edit.cshtml" caret="1399" fromTop="51" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Edit.cshtml" caret="1399" fromTop="51" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:OrderStatus.cs" caret="485" fromTop="20" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:OrderStatusChange.cs" caret="428" fromTop="20" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:OrderStatus/f:Delete.cshtml" caret="0" fromTop="0" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:OrderStatus/f:Edit.cshtml" caret="0" fromTop="0" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:OrderStatus/f:Details.cshtml" caret="0" fromTop="0" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:OrderStatus/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:OrderStatus/f:Create.cshtml" caret="578" fromTop="23" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:OrderStatus.cs" caret="485" fromTop="20" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:DropCreateDatabaseTables.cs" caret="0" fromTop="0" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:FlowerShopContext.cs" caret="347" fromTop="8" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Controllers/f:OrderStatusController.cs" caret="361" fromTop="0" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Migrations/f:201401160409284_AddOrderStatusNumbers.cs" caret="3747" fromTop="34" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Migrations/f:Configuration.cs" caret="630" fromTop="18" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/f:Web.config" caret="720" fromTop="11" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:OrderStatusChange.cs" caret="482" fromTop="21" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:DropCreateDatabaseTables.cs" caret="218" fromTop="8" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:Order.cs" caret="1011" fromTop="40" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:FlowerShopContext.cs" caret="744" fromTop="23" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:Driver.cs" caret="790" fromTop="33" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Create.cshtml" caret="1041" fromTop="22" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Controllers/f:DriversController.cs" caret="490" fromTop="20" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Details.cshtml" caret="734" fromTop="11" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Index.cshtml" caret="778" fromTop="20" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Delete.cshtml" caret="778" fromTop="7" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Views/d:Drivers/f:Edit.cshtml" caret="300" fromTop="15" />
+    <File id="4BC1B819-27DB-49C6-9A5C-CCF125EED1EC/f:OrderStatus.cs" caret="451" fromTop="19" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Migrations/f:Configuration.cs" caret="444" fromTop="13" />
+    <File id="D66D3CC3-67ED-49D6-8E85-26FB885076C1/d:Migrations/f:201401160409284_AddOrderStatusNumbers.cs" caret="3590" fromTop="12" />
+  </RecentEdits>
+</RecentFiles>
